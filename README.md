@@ -6,7 +6,7 @@ A simple mod that makes all slabs placeable vertically as well as horizontally. 
 While this mod aims to work with other mods that add slabs, it is not guaranteed that all features, especially the block models, work as expected.
 
 
-=======================
+---
 
 
 ### Fixing the block models manually
