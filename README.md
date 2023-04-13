@@ -1,3 +1,4 @@
+![Slab Types](https://user-images.githubusercontent.com/130693918/231869727-494e7181-4d8c-450d-b411-2b0478a12aa8.png)
 # Universal-Slabs
 A simple mod that makes all slabs placeable vertically as well as horizontally.
 
