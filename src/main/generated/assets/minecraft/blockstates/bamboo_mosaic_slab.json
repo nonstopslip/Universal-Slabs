@@ -1,0 +1,39 @@
+{
+  "variants": {
+    "axis=x,type=bottom": {
+      "model": "minecraft:block/bamboo_mosaic_slab_top",
+      "x": 270,
+      "y": 90
+    },
+    "axis=x,type=double": {
+      "model": "minecraft:block/bamboo_planks_mosaic"
+    },
+    "axis=x,type=top": {
+      "model": "minecraft:block/bamboo_mosaic_slab",
+      "x": 270,
+      "y": 90
+    },
+    "axis=y,type=bottom": {
+      "model": "minecraft:block/bamboo_mosaic_slab"
+    },
+    "axis=y,type=double": {
+      "model": "minecraft:block/bamboo_planks_mosaic"
+    },
+    "axis=y,type=top": {
+      "model": "minecraft:block/bamboo_mosaic_slab_top"
+    },
+    "axis=z,type=bottom": {
+      "model": "minecraft:block/bamboo_mosaic_slab",
+      "uvlock": true,
+      "x": 270
+    },
+    "axis=z,type=double": {
+      "model": "minecraft:block/bamboo_planks_mosaic"
+    },
+    "axis=z,type=top": {
+      "model": "minecraft:block/bamboo_mosaic_slab_top",
+      "uvlock": true,
+      "x": 270
+    }
+  }
+}

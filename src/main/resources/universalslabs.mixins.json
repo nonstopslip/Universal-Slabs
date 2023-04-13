@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.nonstopslip.gmail.universal_slabs.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "UniversalSlabMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

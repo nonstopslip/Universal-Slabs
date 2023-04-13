@@ -1,0 +1,39 @@
+{
+  "variants": {
+    "axis=x,type=bottom": {
+      "model": "minecraft:block/red_sandstone_slab_top",
+      "x": 270,
+      "y": 90
+    },
+    "axis=x,type=double": {
+      "model": "minecraft:block/red_sandstone"
+    },
+    "axis=x,type=top": {
+      "model": "minecraft:block/red_sandstone_slab",
+      "x": 270,
+      "y": 90
+    },
+    "axis=y,type=bottom": {
+      "model": "minecraft:block/red_sandstone_slab"
+    },
+    "axis=y,type=double": {
+      "model": "minecraft:block/red_sandstone"
+    },
+    "axis=y,type=top": {
+      "model": "minecraft:block/red_sandstone_slab_top"
+    },
+    "axis=z,type=bottom": {
+      "model": "minecraft:block/red_sandstone_slab",
+      "uvlock": true,
+      "x": 270
+    },
+    "axis=z,type=double": {
+      "model": "minecraft:block/red_sandstone"
+    },
+    "axis=z,type=top": {
+      "model": "minecraft:block/red_sandstone_slab_top",
+      "uvlock": true,
+      "x": 270
+    }
+  }
+}

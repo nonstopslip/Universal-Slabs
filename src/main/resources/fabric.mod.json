@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "universal_slabs",
+  "version": "${version}",
+
+  "name": "Universal Slabs",
+  "description": "A simple mod that makes all slabs placeable vertically as well as horizontally.",
+  "authors": [
+    "nonstopslip"
+  ],
+  "contact": {
+    "email": "nonstopslip@gmail.com",
+    "sources": "https://github.com/nonstopslip/Universal-Slabs",
+    "issues": "https://github.com/nonstopslip/Universal-Slabs/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/universalslabs/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.nonstopslip.gmail.universal_slabs.datagen.DataGenEntrypoint"
+    ],
+    "main": [
+      "com.nonstopslip.gmail.universal_slabs.UniversalSlabsMod"
+    ]
+  },
+  "mixins": [
+    "universalslabs.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
