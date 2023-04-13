@@ -7,6 +7,4 @@ While this mod aims to work with other mods that add slabs, it is not guaranteed
 
 ### Fixing the block models manually
 
-In case, your game is missing block models of slabs(displays a black-pink block instead of the actual slab), you can add missing block state files yourself. 
-
-Add a resource pack that contains assets/minecraft/blockstates and add any not_working_slab.json in the blockstates folder. Copy any of the slab jsons from this repository's src/main/generated/assets/minecraft/blockstates and adjust the "model" specifications of the not working blockstates to match "minecraft:block/actual_slab" or "modid:block/actual_slab".
+In case your game has missing textures, you can do something about it yourself. More about this in [Fixing broken slab textures](https://github.com/nonstopslip/Universal-Slabs/wiki/Fixing-broken-slab-textures)
