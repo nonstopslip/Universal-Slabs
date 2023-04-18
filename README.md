@@ -1,5 +1,5 @@
 ![Slab Types](https://user-images.githubusercontent.com/130693918/231869727-494e7181-4d8c-450d-b411-2b0478a12aa8.png)
-# UniversalSlabs
+# Universal Slabs
 
 A simple Minecraft-mod that makes all slabs placeable vertically as well as horizontally. Note that this mod does **not** add *new* items or blocks, it just modifies the existing slab blocks.  
 
